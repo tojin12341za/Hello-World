@@ -1,2 +1,2 @@
 # COVID-19master
-NATTAPON THONGPON Global Citizen CI
+NATTAPON THONGPON Global Citizen Citizen
